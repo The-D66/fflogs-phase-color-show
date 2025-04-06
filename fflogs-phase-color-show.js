@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.4
 // @description  在FFLogs带phase参数的页面添加对应阶段的真实百分位列
-// @author       You
+// @author       The.D
 // @match        https://cn.fflogs.com/reports/*
 // @match        https://www.fflogs.com/reports/*
 // @grant        GM_xmlhttpRequest
@@ -13,10 +13,10 @@
 // @connect      www.fflogs.com
 // @connect      raw.githubusercontent.com
 // @license      MIT
-// @homepage     https://github.com/yourusername/fflogs-phase-color-show
-// @supportURL   https://github.com/yourusername/fflogs-phase-color-show/issues
-// @updateURL    https://greasyfork.org/scripts/your-script-id/versions/latest
-// @downloadURL  https://greasyfork.org/scripts/your-script-id/download
+// @homepage     https://github.com/The-D66/fflogs-phase-color-show
+// @supportURL   https://github.com/The-D66/fflogs-phase-color-show/issues
+// @updateURL    https://greasyfork.org/scripts/fflogs-phase-color-show/versions/latest
+// @downloadURL  https://greasyfork.org/scripts/fflogs-phase-color-show/download
 // ==/UserScript==
 
 (function () {

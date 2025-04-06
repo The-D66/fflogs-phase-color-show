@@ -25,18 +25,11 @@
 1. 安装脚本后，访问FFLogs的伤害统计页面
 2. 如果页面包含phase参数，脚本会自动添加百分位列
 3. 百分位列会显示在表格的最左侧
-4. 百分位值会根据不同的区间显示不同的颜色：
-   - 99+：橙色（传奇）
-   - 95-98：粉色（神话）
-   - 75-94：紫色（史诗）
-   - 50-74：蓝色（稀有）
-   - 25-49：绿色（优秀）
-   - 0-24：灰色（普通）
+4. 百分位值会根据不同的区间显示不同的颜色
 
 ## 数据来源
 
-脚本从GitHub仓库获取CSV数据：
-
+脚本从[ITX351/fflogs_phase_ranker](https://github.com/ITX351/fflogs_phase_ranker)获取dps数据，感谢该项目提供的数据支持。
 
 ## 注意事项
 
@@ -50,4 +43,4 @@
 
 ## 贡献
 
-欢迎提交问题和改进建议！请访问[GitHub仓库](https://github.com/yourusername/fflogs-phase-color-show)提交Issue或Pull Request。
+欢迎提交问题和改进建议！请访问[GitHub仓库](https://github.com/The-D66/fflogs-phase-color-show)提交Issue或Pull Request。
